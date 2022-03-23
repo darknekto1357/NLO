@@ -6,6 +6,6 @@ Hello cheloveki !!!
  ** * ** ** 
 ** *** ** *
 ** *******
-
+line from user2
 I tupoi ##4527kjc
  change user1 
