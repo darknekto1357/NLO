@@ -6,6 +6,6 @@ Hello cheloveki !!!
  ** * ** ** 
 ** *** ** *
 ** *******
-another line ftom user1
+line from user2
 I tupoi ##4527kjc
  change user1 
